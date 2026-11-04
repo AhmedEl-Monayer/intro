@@ -1,0 +1,472 @@
+    Introduction to Computers
+
+
+
+1
+    1. Computer Definition
+         ‫تعريف الكمبيوتر‬
+
+2
+1. Computer Definition
+• What is a Computer?
+  The word “Computer” comes from the word “To Compute” means to calculate.
+•       At the heart of all computers, including those that play videos or display pictures, is a system that uses just two numbers: 0 and 1.
+        Everything we see on a screen - whether it’s a photo, a video, or a game - is made up of thousands or millions of these 0s and 1s.
+•       For example, a picture is made up of tiny dots called pixels, and each pixel's color and brightness are coded in binary. Similarly, a
+        video is just a series of images shown quickly, all stored and processed using 0s and 1s.
+
+
+
+
+    3
+1. Computer Definition
+• Computer is defined as an electronic device that takes the input data from the user,
+  processes the data, and generates output information.
+➢ Data can be in form of numbers, letters, symbols, …, with various shapes & sizes.
+➢ Computer can process, store & retrieve data based on the executed program.
+➢ Processing data produces the required output information.
+
+
+
+
+  4
+    2. Computer Principles
+        ‫مبادىء الكمبيوتر‬
+
+5
+2. Computer Principles
+So, computer has four main principles:
+1. Input: receives data.
+2. Process: activities like calculating, comparing, or classifying the data based on the written program.
+3. Store: saves data for future use.
+4. Output: transmits the resulted information to the user.
+
+
+
+
+  6
+    3. Characteristics of Computer
+            ‫خصائص الكمبيوتر‬
+
+7
+3. Characteristics of Computer
+Why is computer so powerful and widespread?
+Computers are powerful and widespread because of their unique characteristics. Here are some key features
+that make them so important and commonly used:
+1. Speed (‫)السرعة‬
+Computers can process information fast, which would take humans much longer.
+When you search for something on Google, it scans through billions of data in a fraction of a second to find best results.
+2. Accuracy )‫(الدقة‬
+Computers are precise and make very few mistakes, especially when performing tasks like calculations or data analysis.
+If you use a calculator app on your phone to calculate a math problem, it will give you the exact result, without errors,
+even for complicated equations.
+3. Efficiency )‫(الكفاءة‬
+Computer can complete tasks using minimal resources (like time, or effort) while still producing desired results.
+When computer perform a project, it can run multiple programs at once without getting tired.
+4. Storage )‫(التخزين‬
+Computers can store large amounts of data, such as files, pictures, videos, and documents, and make it easy to access
+that data whenever you need it.
+  8
+3. Characteristics of Computer
+5. Automation )‫(التحكم‬
+Computers can perform repetitive tasks automatically without human intervention, saving time and effort.
+Your phone do required tasks as smart homes control, alarms every day automatically.
+6. Connectivity )‫(االتصال‬
+Computers can connect to internet and other devices to share information, and access data from anywhere.
+At sending message on WhatsApp, it is delivered instantly to the other side of the world.
+7. Diversity (‫)تنوع المهام‬
+Computers can perform a wide variety of tasks, from word processing to gaming to scientific research, all depending
+on the software they are running.
+8. Portability )‫(سهولة الحمل‬
+Computers come in various sizes, from large desktop models to small, portable laptops and smartphones.
+You can carry your smartphone in your pocket and use it with various functions.
+9. Evolution )‫(التطوير المستمر‬
+Computers constantly improve, becoming more powerful, efficient, and capable of performing more complex tasks with
+each new generation.
+
+
+  9
+       ‫‪4. Computer Applications‬‬
+     ‫استخدامات الكمبيوتر فى الحياة اليومية‬
+
+‫‪10‬‬
+4. Computer Applications
+Nowadays, in daily life, a wide range of devices, rely on computer concepts such as:
+
+
+
+
+Mobile     Laptop      Desktop PC   Smart watch Virtual Reality (3D) headset   Smart TV      MRI
+
+
+
+
+ATMs     Washing machine   Smart home      Gaming devices (Xbox) Digital Cameras      E-Readers (Kindle)
+
+   11
+     ‫‪5. History of Computer‬‬
+        ‫تاريخ تطور الكمبيوتر‬
+
+‫‪12‬‬
+5. History of Computer
+1. Manual computing
+Early humans needed a way to count things like animals or food. They used fingers and stones to keep track of
+numbers.
+People would use their fingers as the first “calculator” or use physical objects like stones or sticks to represent
+numbers. This is the first recorded attempt to count and calculate.
+
+
+
+
+        Fingers                                  Stones                                 Sticks
+
+   13
+5. History of Computer
+2. Abacus (2400 BCE, Mesopotamia) )‫(عداد األباكوس‬
+The abacus is an ancient counting tool that originated in Mesopotamia (‫ )بالد ما بين النهرين‬by Sumerian and later
+spread to different parts of the world.
+How It Worked: It consists of a series of rods columns, each holding beads (‫)خرز‬. By moving the beads, you
+could perform basic arithmetic (addition, subtraction, multiplication). It was like a manual calculator.
+The columns represent place values: First column on the right represents ones. Second column represents tens. Third represents hundreds,
+and so on. The beads on each rod represent the number of that place value.
+
+
+
+
+    14
+‫‪5. History of Computer‬‬
+‫)‪3. Gear-based machines (1600s‬‬
+‫‪During this time, inventors created machines that could perform calculations automatically.‬‬
+‫‪( used gears to perform arithmetic.‬عداد الخطوات) ‪Machines like Pascal’s Calculator and Leibniz’s Step Reckoner‬‬
+
+
+
+
+                        ‫آلة باسكال (فرنسا ‪1642‬م)‬
+   ‫تحتوي على عجالت لكل خانة رقمية‪ ،‬وكل عجلة تحمل األرقام من ‪ 0‬إلى‬                                        ‫آلة ليبنيز (المانيا ‪1674‬م)‬
+   ‫‪ .9‬يتم تدوير العجالت إلى الرقم المطلوب وعند تدوير التروس حسب الرقم‬                    ‫عداد الخطوات من ليينيز كان مقارب لفكرة باسكال لكنه كان اكثر تطورا‪.‬‬
+   ‫الثانى تتم عملية الجمع اتوماتيكيا وإذا كانت النتيجة أكبر من ‪ ،9‬يتم "نقل"‬                                      ‫كانت قادرة على اجراء الضرب والقسمة ايضا‪.‬‬
+                                              ‫الرقم الزائد إلى الخانة التالية‪.‬‬   ‫يتم الضرب عن طريق جمع الرقم عدة مرات‪ ،‬والقسمة تتم عن طريق الطرح‬
+                                         ‫مقتصرة على الجمع و الطرح فقط‬                                                                              ‫المتكرر‪.‬‬
+
+   ‫‪15‬‬
+‫‪5. History of Computer‬‬
+‫)‪4. Mechanical Computer (Analytical Engine ― 1837, England‬‬
+‫‪Charles Babbage designed the Analytical Engine, which is considered as the first mechanical computer.‬‬
+
+
+
+
+                   ‫‪Punched Cards‬‬
+                                                                             ‫‪Analytical Engine‬‬
+                         ‫آلة التحليل )‪ (Analytical Engine‬التي اخترعها البريطانى شارلز باباج في عام ‪1837‬م تعتبر أول حاسوب ميكانيكى يتضمن‪:‬‬
+        ‫‪ .1‬إدخال البيانات(‪ :)Input‬يتم إدخال األرقام والتعليمات باستخدام بطاقات مثقبة تحتوي على معلومات حول األرقام والعمليات الرياضية المطلوبة‪.‬‬
+                      ‫‪ .2‬تنفيذ العمليات(‪ :)Process‬تستخدم اآللة تروس ميكانيكية يتم تدويرها من خالل محرك حسابى لتنفيذ العمليات الحسابية اتوماتيكيا‪.‬‬
+                    ‫‪ .3‬االحتفاظ بالنتائج (‪ :)store‬بعد إجراء العمليات‪ ،‬يتم تخزين النتائج في الذاكرة لمواصلة العمليات األخرى أو إخراج النتيجة النهائية‪.‬‬
+                                                                ‫‪ .4‬إخراج النتائج(‪ :)Output‬بمجرد انتهاء اآللة من الحسابات‪ ،‬يتم عرض النتيجة النهائية‪.‬‬
+   ‫‪16‬‬
+5. History of Computer
+5. Vacuum tubes electronic computer (ENIAC ― 1946, USA)
+▪    In the 1900s, vacuum tubes electronic devices are appeared.
+▪    Inventors work to replace mechanical gears with vacuum tubes.
+▪    In United States, 1946, engineer Presper Eckert and physicist John Mauchly launched first electronic computer
+     which called ENIAC (Electronic Numerical Integrator and Computer).
+▪    This early computer used vacuum tubes (large electronic devices) to perform calculations.
+▪    Although, ENIAC could solve complex math problems, it was very large and required a lot of power.
+
+
+
+
+     ‫( هي أجهزة إلكترونية قديمة قبل اختراع الترانزستور‬Vacuum Tubes) ‫أنابيب التفريغ‬
+    ‫ وتعمل على‬،)‫عبارة عن أنابيب زجاجية تحتوي على فراغ (أي ال تحتوي على هواء داخلها‬
+                                                                  .‫التحكم في تدفق الكهرباء‬
+      ‫ حيث يتدفق اإللكترونات من المصعد (قطب سلبي) إلى‬،‫تتكون من مغناطيس و إلكترودات‬
+    ،‫األنود (قطب إيجابي) عبر الفراغ داخل األنبوب ويمكن أن تتحكم في تدفق التيار الكهربائي‬
+        ‫مما يسمح لها بعمل مهام مثل التضخيم (أي زيادة قوة اإلشارة) أو التبديل (أي تشغيل أو‬
+                                                                  .)‫إيقاف الدائرة الكهربائية‬
+      ‫ وتسخن بسرعة مما جعلها غير‬،‫ وتستهلك الكثير من الطاقة‬،‫ كانت كبيرة الحجم‬:‫عيوبها‬
+                                                                          ‫عملية بشكل كبير‬
+     17                                                                                        ENIAC
+5. History of Computer
+6. Transistors-based computer (IBM 1401 ― 1959, USA)
+▪    In 1947 USA, transistor was invented and considered one of the most important inventions of the 20th century.
+▪    The introduction of transistors replaced vacuum tubes in computers.
+▪    IBM 1401, introduced in 1959 USA was the first computer to use solid-state components (like transistors).
+▪    This made computer much smaller, more reliable, and more energy-efficient compared to previous vacuum
+     tube-based computers.
+
+
+
+
+    Transistors are small semiconducting solid state electronic
+    switches that control the flow of electricity.
+
+     18
+                                                                                    IBM 1401
+5. History of Computer
+7. Personal Computer (Altair 8800 (No GUI) ― 1975, USA)
+Computers started becoming personal, they could be used by individuals rather than only big research centers.
+Altair 8800, released in 1975 USA, was one of the first affordable personal computers.
+-256 bytes of RAM (1 GB = 2^30 bytes = 1 billion bytes.)
+-No hard drive or floppy drive, data were loaded into RAM or through paper tape.
+-No graphical user interface (GUI); users interacted with it by binary code via panel switches or paper tape.
+
+
+
+
+             Paper tape
+                                                                     Altair 8800
+   19
+5. History of Computer
+8. (GUI) (ICs) Computer(Apple Macintosh ― 1984, USA)
+Apple Macintosh GUI, released in 1984, was groundbreaking, as it included:
+-Desktop with graphical user interface (GUI), where users could see files as icons on screen and click on it by
+mouse.
+-Storage with floppy disk sized 1.44 MB.
+-Integrated circuits (ICs)-based instead of transistors.
+
+
+
+
+              Integrated circuit (IC)
+   20                                                                   Apple Macintosh ‫أبل ماكنتوش‬
+5. History of Computer
+9. Internet (World Wide Web (WWW) ― 1991, Switzerland)
+The first website was started in 1991. (‫(سويسرا‬
+Internet allowed computers to communicate with each other, and information sharing.
+
+
+
+
+   21
+5. History of Computer
+10. Smartphones (1990s to beginning of 2000s)
+
+
+
+
+                          2. Nokia 9000 Communicator   3. BlackBerry 850
+                                (1996) – Finland.      (1999) – Canada.
+
+1. IBM Simon Personal Communicator
+           (1994) – USA.                                                   4. 1st iPhone from Apple
+                                                                                  (2007) – USA.
+
+  22
+5. History of Computer
+11. Artificial Intelligence (AI) (Present)
+Software program that can simulation human intelligence in computers machines with many applications as:
+-   Chatbots (ChatGPT, Gemini, …)
+AI helps chatbots understand user queries in text form and provide automated responses.
+
+-   Virtual Assistants (Siri, Alexa,…)
+Voice recognition to help users perform tasks as setting reminders, checking weather, or controlling smart devices, through voice commands.
+
+-   Personalized Recommendations for Applications (Amazon, YouTube,…)
+Analyzes user behavior to recommend products or movies.
+
+-   Face Recognition
+AI can recognize and identify people or objects within images.
+
+-   Self-driving Cars
+AI helps self-driving cars understand the environment around them and make decisions.
+
+-   Text-to-Speech
+Converting written text into spoken words.
+    23
+     6. Classifications of Computers
+             ‫تصنيفات الكمبيوتر‬
+
+24
+6. Classifications of Computers
+There are many ways to classify computers based on different characteristics based on:
+
+1. Size
+(1. Embedded Systems,         2. Personal Computers,   3. Workstations,   4. Mainframe)
+
+2. Purpose
+(1. General-Purpose,        2. Special-Purpose)
+
+3. Data Processing Mode
+(1. Analog,   2. Digital,    3. Hybrid)
+
+
+4. Operating System (OS)
+(1. DOS       2. Windows        3. Mac    4. Linux     5. Android   6. iOS)
+
+
+
+
+    25
+6.1 Size
+1. Embedded Systems (Small Tools)
+•    Size: Very small.
+•    Examples: Computers inside everyday objects, like your calculator, microwave, washing machine, or a smart watch.
+•    Usage: Performing very specific tasks, like controlling a washing machine’s settings.
+
+
+
+
+    26
+6.1 Size
+2. Personal Computers (PCs)
+•    Size: Small to medium-sized.
+•    Examples:
+      o  Desktop PC: Computer that stays on a desk, with a monitor, keyboard, and mouse. Used at home or in offices.
+      o  Laptop: A portable version of a desktop. It’s small and can be carried around easily.
+•    Usage: Personal tasks, schoolwork, entertainment, and light office work.
+
+
+
+
+    27
+6.1 Size
+3. Workstations
+•    Size: Slightly bigger than personal computers, designed for specialized work one user.
+•    Examples: High-performance computers used for tasks like 3D design, animation, or complex calculations.
+•    Usage: Heavy computing tasks like video editing, simulation, or engineering work.
+
+
+
+
+    28
+6.1 Size
+4. Mainframe Computers
+•    Size: Large and powerful, many users.
+•    Examples: Big machines used by large organizations, like banks or governments, "data centers“.
+•    Usage: Processing large amounts of data for businesses or governments (e.g., banking systems, airline reservations).
+
+
+
+
+    29
+6.2 Purpose
+1. General-Purpose Computers
+•    Purpose: Designed to perform a wide variety of tasks.
+•    Example:
+      o Personal Computers (PCs): Desktops, laptops, that can be used for browsing the internet, writing
+        documents, and playing games.
+
+
+
+2. Special-Purpose Computers
+•    Purpose: Designed for specific tasks or industries.
+•    Examples:
+      o Embedded Systems: Computers inside devices like microwaves, washing machines, cars, or
+        thermostats.
+      o Calculator: A simple tool for performing mathematical calculations.
+    30
+6.3 Data Processing Mode
+1. Analog
+•    Data : Process data in continuous form.
+•    Example: Oscilloscope
+
+
+2. Digital
+•    Data : Process data in discrete form, using binary numbers (0s and 1s).
+•    Examples: Smart phones, ATM, and Calculator.
+
+
+3. Hybrid
+•    Data: Combine features of both analog and digital.
+•    Example: Medical instruments
+
+
+
+    31
+6.4 Operating System (OS)
+1. DOS
+•    Classic Microsoft Disk Operating System (DOS) used in early PCs before GUIs became common. –– Based on command-line.
+
+
+
+
+    32
+6.4 Operating System (OS)
+2. Windows
+•    By Microsoft –– Widely used for PCs –– Versions as Win. 7, Win 8, Win. 10, Win. 11.
+
+
+
+
+    33
+6.4 Operating System (OS)
+3. Mac
+•    By Apple –– Designed specifically for Macintosh computers as MacBook, iMac, and Mac mini.
+
+
+
+
+    34
+6.4 Operating System (OS)
+4. Linux
+•    An open-source operating system –– Widely used in programming, and servers.
+
+
+
+
+    35
+6.4 Operating System (OS)
+5. Android
+•    Most widely used mobile operating system based on Linux –– Designed for smartphones, tablets, and smart TVs.
+
+
+
+
+    36
+6.4 Operating System (OS)
+6. iOS
+•        Apple's mobile operating system ––Designed specifically for iPhones, iPads, and iPod Touch.
+
+
+
+
+    37
+     Exercises
+
+
+38
+                                  Exercises
+Write short notes about:
+
+1. Computer Definition
+
+2. Computer Principles
+
+3. Characteristics of Computer
+
+4. Computer Applications in Daily Life
+
+5. History of Computer
+
+6. Classifications of Computers
+
+ 39
+                                 Exercises
+Write short notes about:
+
+7. Computer Sizes
+
+8. Computer Purposes
+
+9. Computer Data Processing Mode
+
+10. Computer Operating Systems
+
+
+
+
+ 40
+                                 Exercises
+Write the meaning of the following abbreviations:
+• GUI
+• IC
+• WWW
+• AI
+• PC
+• DOS
+• OS
+
+
+ 41
+

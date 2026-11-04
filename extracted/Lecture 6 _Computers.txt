@@ -1,0 +1,292 @@
+              Lecture (6)
+    Numbering Systems and Encoding
+
+
+1
+1. Introduction to Data Representation
+Computers, at their core, are electronic devices that operate using
+electrical signals—essentially, switches that are either on or off. This
+binary nature (on/off, 1/0) makes the binary numbering system the
+native language of computers.
+Everything you see on your screen, from text to images to videos, is
+ultimately broken down into binary data.
+
+  2
+1. Introduction to Data Representation
+But why do we need other systems like decimal, octal, and hexadecimal?
+•       Decimal (Base-10): This is the system humans use daily, based on powers of 10. It's intuitive for us because we have
+        10 fingers, but computers don't "think" in decimal—they convert it to binary for processing.
+•       Binary (Base-2): It's fundamental system for hardware. Memory, processors, and storage all use bits (binary digits) to
+        represent data. For example, a single byte is 8 bits, which can represent 256 different values (2^8).
+•       Octal (Base-8) and Hexadecimal (Base-16): These are "human-friendly" ways to represent binary data. Binary
+        strings can get very long (e.g., 101101001011), making them hard to read or debug. Octal groups binary into sets of 3
+        bits, and hexadecimal into sets of 4 bits, shortening the representation while staying closely tied to binary.
+
+In computing:
+•       Binary is used for low-level operations like machine code and logic gates.
+•       Hexadecimal is common in programming (e.g., memory addresses, color codes like #FF0000 for red in HTML/CSS).
+•       Octal appears in file permissions in Unix systems (e.g., chmod 755).
+Understanding conversions is key for tasks like debugging, networking (IP addresses in hex), and data encoding.
+    3
+2. Understand Numbering Systems
+All numbering systems are positional, meaning the value of a digit depends on its position (place value), which is a power
+of the base.
+1.       Decimal (Base-10):
+          o   Digits: 0-9.
+          o   Example: The number 123 in decimal means:
+                ▪ 1 × 10^2 + 2 × 10^1 + 3 × 10^0 = 100 + 20 + 3 = 123.
+          o   This is our everyday system.
+2.       Binary (Base-2):
+          o   Digits: 0-1 (bits).
+          o   Example: 1011 in binary:
+                ▪ 1 × 2^3 + 0 × 2^2 + 1 × 2^1 + 1 × 2^0 = 8 + 0 + 2 + 1 = 11 (decimal).
+          o   Used in digital circuits because transistors can easily represent two states.
+3.       Octal (Base-8):
+          o   Digits: 0-7.
+          o   Example: 17 in octal:
+                ▪ 1 × 8^1 + 7 × 8^0 = 8 + 7 = 15 (decimal).
+          o   Historically used in early computers; still relevant in some OS contexts.
+4.       Hexadecimal (Base-16):
+          o   Digits: 0-9 and A-F (A=10, B=11, C=12, D=13, E=14, F=15).
+          o   Example: 1A in hex:
+                ▪ 1 × 16^1 + A (10) × 16^0 = 16 + 10 = 26 (decimal).
+          o   Compact for representing bytes (e.g., one byte = two hex digits).
+     4
+2. Understand Numbering Systems
+Here's a comparison table for the number 42 in decimal across systems:
+
+
+  System          Base       Representation                     Breakdown
+  Decimal          10             42                          4×10^1 + 2×10^0
+  Binary           2            101010         1×2^5 + 0×2^4 + 1×2^3 + 0×2^2 + 1×2^1 + 0×2^0
+   Octal           8              52                           5×8^1 + 2×8^0
+Hexadecimal        16             2A                       2×16^1 + A(10)×16^0
+
+
+
+
+ 5
+3.1 Converting from Other Bases to Decimal
+
+•       Method: Multiply each digit by base^position (starting from right at position 0) and sum.
+
+•       Example: Binary 101010 to Decimal:
+
+         o   (1×2^5) + (0×2^4) + (1×2^3) + (0×2^2) + (1×2^1) + (0×2^0) = 32 + 0 + 8 + 0 + 2 + 0 = 42.
+
+•       Octal 52 to Decimal: (5×8^1) + (2×8^0) = 40 + 2 = 42.
+
+•       Hex 2A to Decimal: (2×16^1) + (10×16^0) = 32 + 10 = 42.
+
+
+
+
+    6
+3.1 Converting from Other Bases to Decimal
+
+
+
+
+ 7
+3.1 Converting from Other Bases to Decimal
+
+
+
+
+ 8
+3.1 Converting from Other Bases to Decimal
+
+
+
+
+ 9
+3.1 Converting from Other Bases to Decimal
+
+
+
+
+ 10
+3.1 Converting from Other Bases to Decimal
+
+
+
+
+ 11
+3.2 Converting from Decimal to Other Bases
+•    Method: Divide the decimal number by the target base repeatedly, recording remainders from bottom to top.
+•    Example: Decimal 42 to Binary (Base-2):
+      o  42 ÷ 2 = 21 remainder 0
+      o  21 ÷ 2 = 10 remainder 1
+      o  10 ÷ 2 = 5 remainder 0
+      o  5 ÷ 2 = 2 remainder 1
+      o  2 ÷ 2 = 1 remainder 0
+      o  1 ÷ 2 = 0 remainder 1
+      o  Read remainders upward: 101010 (binary).
+•    For Octal (Base-8): Same process, divide by 8.
+      o  42 ÷ 8 = 5 remainder 2
+      o  5 ÷ 8 = 0 remainder 5
+      o  Result: 52 (octal).
+•    For Hex (Base-16): Divide by 16.
+      o  42 ÷ 16 = 2 remainder 10 (A in hex)
+      o  2 ÷ 16 = 0 remainder 2
+      o  Result: 2A (hex).
+
+    12
+3.2 Converting from Decimal to Other Bases
+
+
+
+
+ 13
+3.2 Converting from Decimal to Other Bases
+
+
+
+
+ 14
+3.2 Converting from Decimal to Other Bases
+
+
+
+
+ 15
+3.3 Conversions Between Binary, Octal, and Hexadecimal
+•    These are easier because they're powers of 2: Octal (2^3), Hex (2^4).
+•    Binary to Octal: Group binary digits in sets of 3 from the right, convert each group to decimal (0-7).
+         o   Example: 101010 (binary) → 101 010 → 5 (101=5) and 2 (010=2) → 52 (octal).
+•    Octal to Binary: Convert each octal digit to 3-bit binary.
+         o   52 (octal) → 5=101, 2=010 → 101010 (binary).
+•    Binary to Hex: Group in sets of 4 from the right.
+         o   101010 (binary) → 10 1010 (pad left with 0: 0010 1010) → 2 (0010=2) and A (1010=10) → 2A (hex).
+•    Hex to Binary: Each hex digit to 4-bit binary.
+         o   2A → 2=0010, A=1010 → 00101010 (drop leading zeros if needed).
+•    For Octal ↔ Hex: Convert via binary as an intermediate step.
+
+
+
+    16
+3.3 Conversions Between Binary, Octal, and Hexadecimal
+
+
+
+
+ 17
+3.3 Conversions Between Binary, Octal, and Hexadecimal
+
+
+
+
+ 18
+3.3 Conversions Between Binary, Octal, and Hexadecimal
+
+
+
+
+ 19
+3.3 Conversions Between Binary, Octal, and Hexadecimal
+
+
+
+
+ 20
+3.3 Conversions Between Binary, Octal, and Hexadecimal
+
+
+
+
+ 21
+3.3 Conversions Between Binary, Octal, and Hexadecimal
+
+
+
+
+ 22
+3.3 Conversions Between Binary, Octal, and Hexadecimal
+
+
+
+
+ 23
+4. Special Encoding Systems
+In addition to binary, hexadecimal, octal, and decimal, there are special encoding systems
+used for specific purposes in computers. These systems make it easier to perform certain
+types of calculations, improve data transmission, and ensure compatibility between devices
+and applications.
+
+1. Binary Coded Decimal (BCD)
+2. Gray Code
+3. ASCII (American Standard Code for Information Interchange)
+
+
+
+
+ 24
+4.1 Binary Coded Decimal (BCD)
+BCD is a method of representing each decimal digit with its binary equivalent. This allows computers to
+easily handle decimal numbers. Each decimal digit (0–9) is represented by a 4-bit binary number.
+Example: Representing 45 in BCD:
+•  4 in BCD = 0100
+•  5 in BCD = 0101
+Thus, 45 in BCD is represented as 0100 0101.
+
+
+
+
+ 25
+4.2 Gray Code
+Gray code is a binary numeral system where two successive values differ in only one bit. It is useful in
+applications where minimal changes are required between values, such as in rotary encoders and error
+correction in digital systems.
+Example: Gray code for 3 (decimal):
+•  3 in binary = 0011
+•  Gray code equivalent = 0010 (change only one bit from 3)
+
+
+
+
+ 26
+4.3 ASCII
+ASCII is a character encoding standard used for text.
+It represents each character as a unique binary code.
+For example, the letter 'A' is represented as 65 in
+decimal or 01000001 in binary.
+Example: ASCII codes:
+•    'A' = 65 (decimal) = 01000001 (binary)
+•    'B' = 66 (decimal) = 01000010 (binary)
+
+
+
+
+  27
+     Exercises
+
+
+28
+Example
+Illustrate by steps how to perform the conversions to fill the following table then write
+complete table.
+
+Decimal         Binary         Octal     Hexadecimal                  BCD
+                                                                    0010 0101
+  0.75
+ 13.625
+                11010
+                                 72
+                                                2F
+
+
+ 29
+Solution
+
+
+Decimal    Binary    Octal   Hexadecimal           BCD
+   25       11001     31         19             0010 0101
+  0.75      0.110     0.6        0.C          0000.0111 0101
+ 13.625   1101.101   15.5       D.A      0001 0011.0110 0010 0101
+   26       11010     32         1A             0010 0110
+   58      111010     72         3A             0101 1000
+   47      101111     57         2F             0100 0111
+
+
+ 30
+

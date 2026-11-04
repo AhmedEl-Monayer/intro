@@ -1,0 +1,407 @@
+        Lecture (3)
+    Computer Hardware
+    ‫المكونات المادية للحاسب‬
+
+1
+1. Computer Hardware and Software
+There are two fundamental parts of any computer system; hardware and software.
+
+💾 Hardware
+Hardware refers to the physical components of a computer —parts you can see and touch such as:
+•  Keyboard, mouse, and monitor
+•  CPU (Central Processing Unit)
+•  Motherboard, graphic cards, and power supply, and memory devices like RAM and hard drives.
+
+‍💻 Software
+Software refers to the programs that tell the hardware what to do. It is not physical, but controls hardware
+such as:
+•  Operating systems like Windows, Mac.
+•  Applications like Microsoft Word, Google Chrome, and games.
+
+So, hardware acts as the body, while software acts as the brain of computer.
+  2
+2. Basic Hardware Components
+Hardware of computer is made up of various physical units that work together to allow the
+system to function effectively. These components can be classified into:
+1. Input Units
+2. Output Units
+3. Central Processing Unit (CPU) “Processor”
+4. Storage Units
+5. Peripheral Units (Cards)
+6. Motherboard
+7. Power Supply
+8. Cables & Buses
+9. Slots & Ports
+10. Case
+  3
+2.1 Input Units
+Input Units: Bringing Data Into the System; allow user to interact with computer by external data or inserting commands.
+•  Examples:
+      o   Keyboard: For entering text, commands, and data.
+      o   Mouse: Enables pointing, clicking, and dragging in graphical user interfaces.
+      o   Scanner: Converts physical documents into digital format.
+      o   Microphone: Captures audio input, used in voice recognition or sound recording.
+      o   Webcam: Captures video for video calls, recordings, or surveillance.
+
+
+
+
+  4
+2.2 Output Units
+Output Units: Displaying the Results; allow computer to show or present the processed data to user.
+• Examples:
+      o   Monitor: Displays visual output, such as text, images, or videos.
+      o   Printer: Converts digital documents into physical printouts.
+      o   Speaker: Outputs sound or audio.
+
+
+
+
+  5
+2.3 Central Processing Unit (CPU) “Processor”
+Central Processing Units (CPU) “Processor” : The Brain of Computer
+•       CPU controls everything. It is responsible for executing instructions and processing data.
+
+
+
+
+    6
+2.3 Central Processing Unit (CPU) “Processor”
+Basic Steps of CPU to carry out instructions:
+Instruction cycle: Fetch → Decode → Execute
+     o   Fetch: gets an instruction. )‫(احضار االمر‬
+
+     o   Decode: transform the instruction into a format the CPU can understand [0 1]. )‫(تشفيراالمر‬
+
+     o   Execute: carries out the instruction. )‫(تنفيذ االمر‬
+
+
+
+
+                   Instruction cycle in CPU
+
+
+
+
+ 7
+2.3 Central Processing Unit (CPU) “Processor”
+Key Components of CPU:
+
+     o   ALU (Arithmetic Logic Unit):Handles mathematical operations (addition, subtraction, etc.) and
+         logical operations (AND, OR, NOT). )‫(وحدة العمليات الحسابية والمنطقية‬
+
+     o   Control Unit (CU): Directs the flow of data within the computer, fetching instructions from memory,
+         decoding them, and executing them step-by-step. )‫(وحدة التحكم‬
+
+
+
+
+                                                   CPU
+                                             [ALU + CU]
+
+ 8
+2.3 Central Processing Unit (CPU) “Processor”
+Cooling of CPU is essential to prevent overheating and ensure a computer runs efficiently using:
+1. Fan
+2. Heat sink made of aluminum.
+This helps to carry the heat away, keeping CPU temperature at safe level.
+
+
+
+
+  9
+2.3 Central Processing Unit (CPU) “Processor”
+CPU like an engineer in a factory. Good engineer quickly following (instructions) to make products (data).
+Key Point: Advanced and faster CPUs handle more tasks quickly.
+
+
+
+
+ 10
+2.4 Storage Units
+Storage Units: Saving Data temporary or permanent.
+•  Primary Storage:
+    o  ROM (Read-Only Memory): )‫(ذاكرة للقراءة فقط‬
+             - Stores firmware )‫( (البيانات التعريفية الثابتة للجهاز‬boot instructions) required to start the system.
+             - ROM can’t be modified.
+
+     o   RAM (Random Access Memory): )‫(ذاكرة الوصول العشوائى‬
+             - Provides fast storage for data at operation.
+             - Temporary as data is lost when computer is turned off.
+             - Its size define computer speed at operation.
+
+•   Secondary Storage (Permanent):
+     o Hard Drive: Used for long-term storage of large amounts of data. Slower than RAM.
+     o USB Flash Drive: Universal Serial Bus (USB) portable storage with easy data transfer.
+     o CD/DVD: Compact Disc (CD) & Digital Video Disc (DVD) commonly used for multimedia or software.
+    11
+2.4 Storage Units
+
+               ROM                          RAM
+
+
+
+
+Hard Drive
+
+
+
+
+                     USB Flash Drive   CD
+   12
+2.4 Storage Units
+ROM is like a table where you keep papers at actively working. Bigger table (more RAM)
+allows more papers (data) at once.
+Key Point: More RAM (e.g., 8GB vs. 4GB) helps run multiple programs smoothly.
+
+Hard disk drive is like a filing cabinet (big but slow to access)
+
+
+
+
+                =                                                   =
+
+
+ 13
+2.4 Storage Units
+
+
+
+
+ 14
+2.4 Storage Units
+    Data size units (prefixes) that are commonly used:
+    Byte (B), Kilobyte (KB), Megabyte (MB), Gigabyte (GB), and Terabyte (TB)
+
+                   1 Byte = 8 Bits (Bit is 0 or 1)
+
+•    1 Byte = Basic unit = 2^0          → letter
+
+•    1 KB = 1,024 B      = 2^10 bytes → short text file
+
+•    1 MB = 1,024 KB = 2^20 bytes → image or small audio
+
+•    1 GB = 1,024 MB = 2^30 bytes → video
+
+•    1 TB = 1,024 GB = 2^40 bytes → large hard drive
+     15
+2.4 Storage Units
+      Storage unit                          Function                                       Capacity
+
+      ROM            Stores firmware (‫( )البيانات التعريفية الثابتة‬boot instructions) 1MB to 16MB
+
+      RAM            Temporary storage at running the computer                  2GB, 4GB, 8GB to 64GB
+
+
+      Hard Drive     Long-term storage for large data                           500GB to 10TB+
+
+
+      USB Flash      Portable storage for easily data transferring              8GB to 2TB+
+
+                                                                                700MB (CD) - read only
+      CD/DVD         Media storage or software distribution
+                                                                                4.7GB (DVD) - rewritable
+
+
+
+ 16
+2.5 Peripheral Units (Cards)
+Peripheral Cards help in translating computer information into forms humans can understand.
+
+Cards may be built-in motherboard or external devices.
+
+Common types are:
+
+•    Graphics card → Converts computer data into images/videos for the monitor.
+
+•    Sound card → Converts computer data into sounds for speakers (and vice versa for microphones).
+
+•    Network card → Internet and networking
+
+
+
+
+    17
+2.5 Peripheral Units (Cards)
+
+
+
+
+ Graphics card     Sound card   Network card
+
+
+ 18
+2.6 Motherboard
+•   Motherboard is the main circuit board that connects and allows communication between all components.
+•   Key Features:
+     o   Houses CPU, RAM slots, and cards slots.
+     o   Provides power distribution and data transfer channels for all connected components.
+
+
+
+
+    19
+2.6 Motherboard
+
+
+
+
+ 20
+2.7 Power Supply
+•    Power supply unit provides electricity to all components of computer by converting electrical power
+     from the wall outlet into the appropriate voltage.
+•    Key Features:
+      o  Converts AC from an outlet to DC used by the components.
+      o  Supplies power to motherboard, CPU, storage devices, and peripherals.
+      o  Rated by wattage, which determines how much power it can provide.
+
+
+
+
+    21
+2.8 Cables & Buses
+      Part                   Function                       Example
+
+Cables       Connect parts with power/data       Data cable & Power cable
+
+Buses        Transfer data inside the computer   Data, address, control buses
+
+
+
+
+ 22
+2.8.1 Cables
+
+
+
+
+      Power cables   Data cables
+
+ 23
+ 2.8.2 Buses
+  Buses: Copper lines on the motherboard
+
+
+    Type                       Function
+Data Bus      Transfer actual data
+Address Bus Transfer data location from CPU to memory
+Control Bus Tells RAM when to send data
+
+
+
+
+    24                                                  Buses
+2.9 Slots & Ports
+       Part                  Function                            Example
+
+Slots         Allow components’ connections inside    RAM slot, PCIe slot for GPU
+
+Ports         Allow components’ connections Outside   Universal Serial Bus (USB)
+
+
+
+
+  25
+2.9.1 Slots
+Slots: connectors inside the case on the motherboard where you can plug in hardware
+components.
+
+
+
+
+ 26
+2.9.2 Ports
+Ports: Connectors outside the computer (on case) to connect mouse, keyboard, monitor, USB drive, …
+
+
+
+
+ HDMI: High-Definition Multimedia Interface (audio and video)
+ VGA: Video Graphics Array (video only)
+ USB: Universal Serial Bus ( commonly used; Keyboard, Mouse, USB drives, Printers, Smartphones,…)
+
+ 27
+2.10 Case
+Case is the enclosure that houses all internal hardware components.
+It helps with organization, cooling, and protection.
+
+
+
+
+ 28
+3. Block Diagram of Hardware Organization
+Block diagram to illustrate computer                    Case
+hardware organization including:
+1. Input Units
+                                                     Motherboard
+2. Output Units
+3. CPU                                                  Cards
+4. Storage Units
+5. Peripheral Units (Cards).                         Storage Units
+
+6. Motherboard
+7. Power Supply                                         CPU
+                                       Input Units                   Output Units
+8. Cables & Buses                                    [ALU + CU]
+9. Slots & Ports
+10. Computer Case
+                                                     Power Supply
+
+  29
+     Task
+
+
+30
+             Task: Specifying Laptop Features for Buying Decision
+Scenario:
+Two of your friends, both of whom need laptops with 8 GB RAM, have approached you for recommendations
+as an engineering student. You are tasked with recommending two laptops as one friend has a limited budget,
+while the other has a free budget.
+You will search online for laptops that meet 8 GB RAM criterion. Then, recommend:
+• One laptop for limited-budget friend.
+• One laptop for free-budget friend.
+Specify key features of each laptop as the following example:
+➢   Online: Jumia - Amazon - Elaraby Group - Noon - B.Tech
+➢   Brand/Model: HP Pavilion 15 or Lenovo IdeaPad 5
+➢   Processor: Intel Core i5
+➢   RAM: 8 GB
+➢   Storage: 1 TB
+➢   Display: 15.6"
+➢   Battery Life: 8 hr
+➢   Price: --L.E
+    31
+     Exercises
+
+
+32
+                                  Exercises
+Write short notes about:
+1. Computer Hardware and Software Definitions.
+2. Basic Hardware Components.
+3. CPU (Steps carry out instructions, Components of CPU, Cooling methods).
+4. Primary and Secondary Storage Units.
+5. Data Size Prefixes.
+6. Function and capacity of (ROM, RAM, Hard Drive, USB Flash, CD).
+7. Peripheral Cards (Function & Examples).
+8. Motherboard.
+9. Power supply.
+10. Cables and Buses (Function & Examples).
+11. Slots and Ports (Function & Examples).
+12. Case.
+13. Block Diagram of Hardware Organization.
+ 33
+                                  Exercises
+Write the meaning of the following abbreviations:
+• CPU
+• ALU
+• CU
+• ROM
+• RAM
+• CD
+• DVD
+• USB
+• VGA
+• HDMI
+• KB – MB – GB – TB
+ 34
+

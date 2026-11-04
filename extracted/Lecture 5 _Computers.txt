@@ -1,0 +1,299 @@
+        Lecture (5)
+    Computer Software
+    (Excel – PowerPoint)
+1
+    Part 3
+    Excel
+
+2
+1. What is Microsoft Excel?
+Microsoft Excel is a powerful spreadsheet program used for data organization, analysis,
+and visualization from Microsoft Office.
+
+Excel is made up of cells, organized in rows (labeled with numbers) and columns (labeled
+with letters). Each cell can hold text, numbers, or formulas.
+
+By the end of this part, you'll understand:
+• Basics of Excel interface.
+• How to enter data.
+• Using formulas and functions.
+• Creating charts and managing data lists.
+Excel files extension are .xlsx
+ 3
+2. Excel Interface
+1. Workbook: An Excel file, which contains multiple worksheets.
+2. Worksheet: A single page in a workbook made up of a grid of rows and columns.
+3. Ribbon: A set of tabs (Home, Insert, Page Layout, etc.) where most of Excel’s tools and
+     commands are located.
+4. Cells: The intersection of rows and columns, where data is stored.
+5. Cell Name: Next to the formula bar, displays the current cell address.
+6. Cell Data: Displays the data or formula in the currently selected cell.
+
+Tip: Use keyboard shortcuts like Ctrl+S to save, Ctrl+Z to undo.
+ 4
+3. Data Entry and Formatting
+Entering Data:
+    o Click on a cell, type the data, and press Enter.
+    o Use arrows to navigate.
+    o To enter data in multiple cells, click on each cell and type the data one by one.
+Formatting Data:
+    o Bold: Select the cell(s) and press Ctrl + B or click the Bold icon on the Home tab.
+    o Italics: Select the cell(s) and press Ctrl + I or click the Italic icon.
+    o Font Size: Select the cell(s), go to the Home tab, and choose the desired font size.
+    o Cell Color: Highlight a range of cells and choose a fill color from Fill Color button on Home tab.
+    o Text Alignment: Use Alignment section in Home tab to change text alignment (left, center, right, top,
+      middle, bottom).
+
+                                      Name    Age          Score
+                                    Ahmed 20             90
+                                    Ali    22            70
+                                    Omar   21            85
+
+  5
+4. Calculations Using Formulas
+ Excel has built-in functions for basic arithmetic, such as addition, subtraction, multiplication, and division.
+
+ Formulas start with =
+
+ •Basic Arithmetic:
+     •Addition: =A1 + B1
+     •Subtraction: =A1 - B1
+     •Multiplication: =A1 * B1
+     •Division: =A1 / B1
+ •Sum Function:
+     •Use the SUM function to add multiple values: =SUM (A1:A5).
+ •Average Function:
+     •To calculate the average of a range of numbers: =AVERAGE (A1:A5).
+
+Use IF to write pass/fail. In F1: "Status", F2: =IF(D2>=70, "Pass", "Fail"). AutoFill.
+AutoFill: Drag the fill handle (small square at cell corner) to copy formulas.
+
+   6
+5. Sorting and Filtering Data
+Sorting:
+    o To sort data, select the data range and go to the Data tab.
+    o Click on Sort and choose to sort by a specific column, either Ascending or
+      Descending.
+Filtering:
+    o Click on any cell in the table.
+    o Go to the Data tab and click Filter.
+    o Small drop-down arrows will appear next to each header. Click to select specific
+      values or set conditions.
+
+Task to Perform:
+•       Sort the student table by Score in descending order.
+•       Apply a filter to show only students with a grade of A.
+
+
+    7
+6. Conditional Formatting
+How to Use Conditional Formatting:
+         o   Select a range of cells.
+         o   Go to the Home tab – Styles – and click Conditional Formatting.
+         o   Choose from options like Color Scales, Data Bars, or Highlight Cell Rules.
+         o   For example, you can highlight all cells greater than 80 with a green fill color.
+Task to Perform:
+•       Apply conditional formatting to the Score column to highlight all scores greater than 80 with a green fill.
+
+
+
+
+    8
+7. Charts
+Creating a Chart:
+         o   Select the data you want to visualize (e.g., Name and Score).
+         o   Go to the Insert tab and choose a chart type (e.g., Bar Chart or Column Chart).
+         o   The chart will be inserted into your worksheet.
+Modifying the Chart:
+         o   Once the chart is inserted, you can modify the title, axis labels, and colors by selecting the chart and
+             using the options in the Chart Tools section.
+Task to Perform:
+•       Create a bar chart that shows the Name and Score of each student.
+•       Add a title to the chart: "Student Scores".
+
+
+    9
+                          Excel Task
+
+Make an Excel sheet of 10 students marks.
+
+• Find (Average, Max, Min, Sum, …)
+
+• Sort the students
+
+• Make conditional formatting
+
+• Insert a chart
+
+ 10
+       Part 4
+
+     PowerPoint
+
+11
+1. What is Microsoft PowerPoint?
+Microsoft PowerPoint is a presentation software that allows users to create slideshows.
+
+
+
+By the end of this part, you'll learn:
+
+•    PowerPoint interface and basics.
+•    How to create and format slides.
+•    Adding multimedia, animations, and transitions.
+•    Best practices for presenting.
+
+
+
+
+    12
+2. PowerPoint Interface
+      1. Ribbon: Top tabs like Home, Insert, Design, Transitions, Animations, Slide Show.
+
+      2. Slide Area: Main workspace where you edit the current slide.
+
+      3. Slides Pane: Left sidebar showing thumbnails of your slides.
+
+      4. Notes Pane: Bottom area for speaker notes (View > Notes to toggle).
+
+      5. Status Bar: Bottom with slide number, zoom, and view options.
+
+
+
+      Tip: Use Ctrl+S to save as .pptx
+
+ 13
+3. Creating a New Presentation
+Creating a New File:
+         o   Open PowerPoint and click File > New.
+         o   Select Blank Presentation or choose a template from the gallery.
+
+PowerPoint makes slides look professional with themes, fonts, and colors.
+•    Themes: Design tab > Themes group. Pick one to apply consistent styles.
+
+•    Fonts and Colors: Home tab > Font group for size, bold; Drawing group for shapes.
+
+•    Background: Design > Format Background for colors, gradients, or images.
+
+    14
+4. Adding and Formatting Text
+Adding Text:
+      o   Insert tab > Click on the Text Box icon.
+      o   Type the text you want to appear on your slide.
+Formatting Text:
+      o   Select the text you want to format.
+      o   Use options from the Home tab to change the font style, size, color, and alignment.
+      o   Bold: Use Ctrl + B or click the Bold button in the Ribbon.
+      o   Italic: Use Ctrl + I or click the Italic button.
+
+
+ 15
+5. Inserting Images and Shapes
+Inserting Images:
+
+      o   Go to the Insert tab and click on Pictures.
+
+      o   Choose This Device to upload an image from computer or Online Pictures to search web for images.
+
+      o   Select the image and adjust its size by dragging the corners.
+
+Inserting Shapes:
+
+      o   Go to the Insert tab and click Shapes. Choose from various shapes like rectangles, circles, arrows...
+
+      o   Draw the shape on the slide and use the Format tab to customize the color, size, and effects.
+
+
+
+ 16
+6. Inserting a Table and Chart
+Inserting a Table:
+    o  Go to the Insert tab and click Table. Choose the number of rows and columns you need.
+    o  You can enter data into the table directly, and format it using the Table Tools Design tab.
+Inserting a Chart:
+    o  Go to the Insert tab and click Chart.
+    o  Choose the type of chart you want (e.g., Bar, Column, Line).
+    o  Enter your data in the chart's datasheet.
+Task to Perform:
+•    On a new slide, insert a table that lists the following information.
+•    Insert a Bar Chart.
+
+                                                                                   Students marks
+                Name               Marks                                10
+                                                                        8
+                 Ali                80                                  6
+                Khalid              90                                  4
+                                                                        2
+                Omar                70                                  0
+                                                                             Ali    Ahmed   Mohamed Omar
+    17
+7. Adding Transitions Between Slides
+Applying Transitions:
+       o   Go to the Transitions tab in the Ribbon.
+       o   Select a transition effect (e.g., Fade, Wipe, or Push).
+       o   Click Apply To All if you want the same transition for every slide.
+Customizing Transitions:
+       o   In the Timing section, adjust the Duration of the transition and decide if it should be triggered by a
+           Mouse Click or automatically after a set time.
+
+Task to Perform:
+•  Apply the Fade transition to all slides in your presentation with a 2-second duration.
+
+
+
+  18
+8. Adding Animations to Objects
+Adding Animations:
+         o   Select the object (text box, image, shape, etc.) you want to animate.
+         o   Go to the Animations tab and choose an animation effect (e.g., Fade In, Zoom, Fly In).
+         o   Adjust the Duration and Start options (e.g., On Click, With Previous, After Previous).
+Animation Pane:
+         o   To manage the order and timing of animations, click Animation Pane in the Advanced Animation
+             group. This will show a list of all animations and their settings.
+Task to Perform:
+•    Add a Fly In animation to the title text on the first slide, and set it to start On Click.
+•    Add a Fade animation to the image on the second slide, and set it to start After Previous.
+
+
+    19
+9. Record Slide Show
+Slide Show > Record Slide Show
+
+
+
+
+ 20
+10. Insert Screen Recording and Audio
+Insert > Screen Recording
+Insert > Audio
+
+
+
+
+ 21
+11. Presenting and Exporting
+
+•    Slide Show: Slide Show tab > Start Slide Show > From Beginning (F5).
+
+                 Use arrows or click to advance.
+
+•    Presenter View: Slide Show > Use Presenter View (shows notes, timer).
+
+•    Export: File > Export > Create PDF or Video.
+
+
+
+
+    22
+                         PowerPoint Task
+
+• Make a presentation to present yourself (Name, Address, Faculty, Hobbies, …)
+
+
+• Apply Transitions and Animations.
+
+
+
+
+ 23
+

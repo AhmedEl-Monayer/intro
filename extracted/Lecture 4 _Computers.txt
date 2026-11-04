@@ -1,0 +1,373 @@
+       Lecture (4)
+    Computer Software
+    (Windows – Word)
+1
+Introduction
+Computer software is the collection of programs that tell the hardware how to operate.
+In simple terms, if hardware is the body of a computer, then software is its mind.
+
+Software can be divided into two categories:
+1. System Software:
+     Programs that provide platform for applications to run as Operating Systems and device drivers.
+     o   Example: Microsoft Windows, Linux, macOS.
+
+2. Application Software:
+     Programs designed to help users perform specific tasks.
+     o   Example: Microsoft Word, Excel, PowerPoint, web browsers.
+
+
+ 2
+     Part 1
+    Windows
+
+3
+What is Microsoft Windows?
+Microsoft Windows is a graphical operating system developed by Microsoft.
+It started in 1985 as an add-on to MS-DOS and has evolved into a user-friendly platform.
+
+Key Features of Windows:
+       Graphical User Interface (GUI): Point-and-click with mouse or touch.
+       Multi-tasking: Run multiple apps at once.
+       Security: Built-in antivirus (Windows Defender) and updates.
+
+Brief History:
+       1985: Windows 1.0 – GUI Basic windows and mouse support.
+       1995: Windows 95 – Introduced Internet Explorer.
+       2001: Windows XP – Stable and user-friendly.
+       2009: Windows 7 – Improved performance.
+       2015: Windows 10 – More advancement.
+       2021: Windows 11 – Modern design with AI features.
+    4
+1. Getting Started with Windows
+Steps:
+1. Turn on the PC by pressing power button.
+2. Wait seconds until it "boots" (starts up) and loads the OS.
+3. After setting up, enter the password if required.
+
+
+
+
+ 5
+2. Navigate Windows Interface
+
+1. Desktop: Main screen after login.
+
+2. Icons: Small pictures representing files, folders, apps.
+
+3. File Explorer: For browsing files (shortcut: Windows key + E).
+
+
+
+
+ 6
+3. Check Device specifications and Windows specifications
+
+                                          Task
+Check:           Device specifications & Windows specifications
+
+Steps:
+1. Click the Start button or Windows icon on keyboard.
+
+2. Type "About" and select “setting" from the search results.
+
+3. Device specifications and Windows specifications.
+
+
+
+ 7
+4. File Management in Windows
+
+Files are organized in folders. Use File Explorer to manage them.
+
+Basics:
+
+1. Drives: Hard disk (C:), removable drives (D:, E:).
+
+2. Folders: Containers to organize files.
+
+3. Files: Store data (document.docx, picture.jpg).
+
+ 8
+4. File Management in Windows
+                                     Task:
+Create word file “Report”       at folder “My Projects” at   Drive (D)
+
+Steps:
+1. Open Drive (D).
+2. Right-click → New → Folder → name it “My Projects” → Enter.
+3. Open “My Projects” folder.
+4. Right-click → New → Microsoft Word Document → name it Report → Enter.
+
+
+ 9
+5. Files Extensions
+.docx → Word document
+.xlsx → Excel spreadsheet
+.pptx → PowerPoint presentation
+.jpg / .png → Image
+.exe → Executable (program)
+
+
+
+
+ 10
+6. Basic Windows Operations
+
+• Copy (Ctrl + C), Paste (Ctrl + V), Cut (Ctrl + X), Delete (Del).
+
+
+• Rename (Right-click → Rename).
+
+
+• Search (Start Menu or File Explorer search bar).
+
+
+
+
+ 11
+7. Basic Applications
+From start button:
+
+1. Notepad: Text editing.
+
+2. Paint: Simple drawing.
+
+3. Snipping Tool: Screenshots.
+
+4. Calculator: Basic and scientific calculations.
+
+
+ 12
+8. Control Panel
+Control Panel: Manage computer settings (Programs, Time, Language, Security).
+
+
+Task: How do you uninstall a program in Windows?
+
+Steps:
+1. Search Control Panel on start and Open it → Programs → Programs and Features.
+2. Select the program.
+3. Click Uninstall.
+
+
+
+
+  13
+         Part 2
+     Microsoft Word
+
+14
+1. Starting Microsoft Word
+Microsoft Word is a word processing software developed by Microsoft. It is part of the Microsoft Office
+suite of programs and is used for creating, editing, formatting, and printing text documents.
+
+
+To open Microsoft Word:
+Click on the Start menu at the bottom left of your screen (Windows icon).
+Type Word in the search bar, then click on Microsoft Word when it appears.
+When Microsoft Word opens, you will be presented with a blank document or several templates you can
+choose from.
+
+
+
+
+  15
+2. Word Interface
+Once the program is open, you will see the following main components:
+1. Writing Area: This is the large white area where you can type and edit your document.
+2. Ribbon: The ribbon is at the top of the screen and contains different tabs such as Home,
+  Insert, Design, Layout, etc. Each tab contains tools for different tasks.
+3. Quick Access Toolbar: Located above the ribbon, this toolbar allows quick access to
+  common tools (e.g., Save, Undo, Redo).
+4. Status Bar: Found at the bottom of the window, it shows information about your
+  document such as page number, word count, and language.
+
+
+ 16
+17
+3. Creating and Saving a Document
+Creating a New Document:
+      o   When you first open Word, you’ll see a blank page. Start typing to create content.
+      o   You can also create a new document by clicking File > New > Blank Document.
+Saving Your Document:
+      o   Click on File in the top-left corner.
+      o   Select Save As to save the document for the first time.
+      o   Select Word Document (*.docx) as the file type.
+      o   Choose the location (e.g., Desktop or Documents) and name your document.
+      o   Click Save.
+      o   To save your work after changes, simply click Ctrl + S.
+
+      Tip: Save frequently to avoid data loss using (Ctrl + S).
+ 18
+4. Typing and Editing Text
+    Click in the document area and start typing.
+
+    To edit text, click where you want to make changes, or use the arrow keys to navigate.
+
+
+    Use Backspace to delete characters to the left or Delete to remove characters to the right.
+
+
+
+
+    19
+1. Changing Font Style and Size:
+    o   Highlight the text you want to format.
+    o   On the Home tab, under the Font group, you can change the font style, size, and color.
+    o   Select a new font style (e.g., Arial, Times New Roman), and increase or decrease the font size.
+
+
+
+
+   20
+2. Bold, Italic, and Underline:
+    o   Select the text you want to change.
+    o   Click B for Bold, I for Italic, or U for Underline in the Font group.
+    o   You can also use keyboard shortcuts: Ctrl + B (Bold)      Ctrl + I (Italic)   Ctrl + U (Underline)
+
+
+
+
+   21
+3. Aligning Text:
+    o  Highlight the text.
+    o  Under the Home tab, use the Paragraph group to align text:
+          Left Align (default)
+
+          Center Align
+
+          Right Align
+
+          Justify
+
+
+
+
+  22
+4. Line Spacing: Select text, go to Home > Paragraph Spacing, and choose an option (e.g., 1.15 or 2.0).
+
+
+
+
+     23
+Bulleted or Numbered Lists:
+    o   Highlight the text where you want a list.
+    o   Under the Home tab, in the Paragraph group, click on either the Bullets or Numbering button to create a list.
+    o   You can change the style of the bullets or numbering by clicking the drop-down arrow next to the buttons.
+
+
+
+
+   24
+7. Inserting and Formatting Images
+Inserting an Image:
+      • Place the cursor where you want the image.
+      • Go to Insert > Pictures > This Device, select an image file, and click Insert.
+Resizing and Positioning the Image:
+      •Resize the image by dragging its corners.
+Picture Format:
+      • Use Picture Format tab to add effects like borders or shadows.
+Text Wrapping Around the Image:
+      • Select the image, then click on Wrap Text (found under the Picture Tools > Format tab).
+      • Choose a wrapping style like Square, Tight, or Through to control how text flows around the image.
+
+
+
+ 25
+8. Tables
+Inserting a Table:
+      o   Place the cursor where you want the table.
+      o   Go to the Insert tab.
+      o   Click on Table, and a grid will appear. Select the number of rows and columns you want for your
+          table.
+      o   After inserting the table, you can enter text into the cells.
+Formatting the Table:
+      o   To format the table, click anywhere inside the table.
+      o   A new tab called Table Design will appear. You can change the table style, apply shading, and more.
+
+
+
+
+ 26
+9. Headers, Footers, and Page Numbers
+Adding a Header:
+    o   Click on the Insert tab.
+    o   Click Header, then choose a style. A header section will appear at the top of your document.
+Adding a Footer:
+    o   Click on the Insert tab.
+    o   Click Footer, and choose a style. A footer section will appear at the bottom of your document.
+Adding Page Numbers:
+    o   Click on the Insert tab.
+    o   Click Page Number, and select where you want the page number to appear (top, bottom, or margin).
+
+
+
+
+   27
+10. Proofreading
+Grammar Check:
+       o   If there is a grammar issue, Word will underline the error with a blue line. Right-click on the
+           underlined word to view suggestions.
+Spell Check:
+       o   Word automatically checks spelling as you type and highlights errors with a red underline.
+       o   Right-click on the underlined word and choose the correct spelling or suggestion.
+Synonyms (‫ )المرادفات‬:
+       o   Right-click on a word and choose Synonyms to find alternative words using the Thesaurus.
+
+
+
+
+  28
+11. Tips
+    Practice Regularly: The more you use Word, the more comfortable you'll become with its features.
+    Use Shortcuts:
+
+    Ctrl + C (Copy)
+    Ctrl + V (Paste)
+    Ctrl + X (Cut)
+    Ctrl + Z (Undo)
+    Ctrl + A (Select all)
+    Ctrl + S (Save)
+    Caps lock (Capital letters)
+    Format painter
+
+
+    Explore Templates: Word offers templates for resumes, letters, and more. Check them out under File > New.
+    Check Spelling and Grammar: Use Review > Spelling & Grammar to ensure your document is error-free.
+
+
+    29
+     Task
+
+30
+                                   Task
+                           Write your CV
+
+CV includes: Name – Email – Phone – Date of Birth – Career Objective
+              Education – Software Programs – Technical Skills – Internships
+              Certifications – Languages.
+
+
+Practice with Microsoft Word:
+       Formatting Text, Making Lists, Inserting Image and Tables.
+  31
+     Exercises
+
+
+32
+                                    Exercises
+1. What are the key features of Windows?
+
+2. How to get started with Windows?
+
+3. What is the difference between; Drives, Folders, and files?
+
+4. List the steps to create word file “Report” at folder “My Projects” at Drive (D).
+
+5. Describe the files with these extensions: .docx .xlsx .pptx .jpg .png .exe.
+
+6. List basic applications in Windows.
+
+7. List the four main components in Word Interface
+ 33
+
